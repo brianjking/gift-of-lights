@@ -1,1 +1,6 @@
 # gift-of-lights
+
+
+* BLUE HEADER - #00AEEF
+* GREEN HEADER - #488010 
+* RED HEADER - #ED130D
